@@ -1,0 +1,3 @@
+CS101|Algorithms|20|1
+EB101|Electorals|2|2
+MP222|Manipal Money|2|2
